@@ -1,0 +1,26 @@
+.nav {
+    float: right;
+}
+
+.input {
+    border-radius: 25px;
+    border: 1px solid black;
+    padding: 15px; 
+    width: 200px;
+    height: 15px;
+}
+
+form {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    display: block;
+}
+
+.submit {
+    display: block;
+    margin: 0 auto;
+    margin-top: 5px;
+}
